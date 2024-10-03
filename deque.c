@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+//Test
 // Global Variables for the Deque and Synchronization
 deque_421_t *deque = NULL;
 sem_t sem_high;
